@@ -15,6 +15,7 @@ The following is the background information for the business.
 1. [Description of Business](#description)
 2. [Information Needs](#information)
 3. [List of Entities](#entities)
+4. [View Project Report]<a url="https://github.com/soo-han/CIS3400-Relational-Database/blob/master/CIS3400-EMWA%20Group%20Project%20Final%20Report%20(Group%20%239).pdf"></a>
 
 ### Description of Business <a name="description"></a>
 - We are a small residential real estate company that focuses on
